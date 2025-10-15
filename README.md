@@ -1,4 +1,4 @@
-# 🚴‍♂️ Bike Sales Dashboard (Excel Project)
+#🚴‍♂️ Bike Sales Dashboard (Excel Project)
 
 ##  Overview
 This project presents an interactive **Bike Sales Dashboard** created in **Microsoft Excel**.  
